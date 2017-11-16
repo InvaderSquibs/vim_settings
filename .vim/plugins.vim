@@ -16,7 +16,7 @@ Plugin 'vim-scripts/HJKL'
 Plugin 'matze/vim-move'
 Plugin 'scrooloose/nerdcommenter'
 Plugin 'pseewald/vim-anyfold'
-
+Plugin 'haya14busa/incsearch.vim'
 
 
 
